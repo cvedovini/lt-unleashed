@@ -1,0 +1,252 @@
+# Copyright (C) 2015 LT Unleashed
+# This file is distributed under the same license as the LT Unleashed package.
+msgid ""
+msgstr ""
+"Project-Id-Version: LT Unleashed 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/lt-unleashed\n"
+"POT-Creation-Date: 2015-10-11 05:56:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-librarything-unleashed-admin.php:12
+#: includes/class-librarything-unleashed-admin.php:41
+msgid "LibraryThing Unleashed Options"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:13
+msgid "LibraryThing"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:18
+msgid "AWS access key"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:19
+msgid "AWS secret key"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:20
+msgid "Amazon location"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:21
+msgid "Amazon affiliate tag"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:22
+msgid "Book page"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:23
+msgid "Book base"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:24
+msgid "Hide \"Buy Now!\" button"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:25
+msgid "Hide signature"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:30
+msgid "Settings"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:56
+msgid "Single Book Page"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:74
+msgid ""
+"The access key for the Amazon Product Advertising API which is used to fetch "
+"data for single book pages."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:80
+msgid "The secret key for the Amazon Product Advertising API."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:88
+msgid "No single book page"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:95
+msgid "Create a new page"
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:98
+msgid "The plugin needs a page to support displaying individual books."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:99
+msgid "Choose a page or create a new one."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:100
+msgid "If you don't, all links to books will go to LibraryThing."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:106
+msgid "The base of the URL for single book pages."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:118
+msgid ""
+"The Amazon store from which the book data will be fetched and where your "
+"visitors will be sent if they click an Amazon link."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:124
+msgid "Your Amazon affiliate tag."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:125
+msgid ""
+"If you don't specify one, the plugin will use its own and the affiliate "
+"commissions, if any, will go the author of the plugin."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:132
+msgid ""
+"Check this option to hide the Amazon \"Buy Now!\" button on the single book "
+"page."
+msgstr ""
+
+#: includes/class-librarything-unleashed-admin.php:140
+msgid "Check this option to hide the plugin's signature."
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:5
+msgid "A widget displaying the books from a LibraryThing collection"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:7
+msgid "LibraryThing Books"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:46
+msgid "Title:"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:53
+msgid "LibraryThing username:"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:60
+msgid "Maximum number of books to display:"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:67
+msgid "Sort by:"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:71
+msgid "Date of entry"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:73
+msgid "At random"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:78
+msgid "Template:"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:82
+msgid "Covers"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:84
+msgid "List"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:86
+msgid "How to display the books"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:90
+msgid "Tags:"
+msgstr ""
+
+#: includes/class-librarything-unleashed-widget.php:94
+msgid ""
+"Comma separated list of tags. This is an additive list, \"bone, comics\" "
+"will return books with either tag, not just books that have both tags. Leave "
+"empty to consider all the books"
+msgstr ""
+
+#: lt-unleashed.php:267
+msgid ""
+"You need to provide your LibraryThing username for your books to show here."
+msgstr ""
+
+#: lt-unleashed.php:277
+msgid ""
+"The plugin could not retrieve any book from this collection, if you think "
+"this is wrong then <a href=\"%s\">check that your LibraryThing account is "
+"public</a>. If your account is public and you used tag filtering then check "
+"your tags, they are case sensitive</a>."
+msgstr ""
+
+#: lt-unleashed.php:331
+msgid "powered by the <a href=\"%s\">LibraryThing Unleashed</a> plugin."
+msgstr ""
+
+#: templates/book-single.php:14
+msgid "This book on LibraryThing"
+msgstr ""
+
+#: templates/book-single.php:16
+msgid "This book on Amazon"
+msgstr ""
+
+#: templates/book-single.php:18
+msgid "This book on Google books"
+msgstr ""
+
+#: templates/book-single.php:20
+msgid "Add this book to your collection"
+msgstr ""
+
+#: templates/book-single.php:27 templates/list.php:13
+msgid "by"
+msgstr ""
+
+#: templates/book-single.php:39
+msgid "Buy this book on Amazon"
+msgstr ""
+
+#: templates/book-single.php:45
+msgid "Other books you may like"
+msgstr ""
+
+#: templates/list.php:16
+msgid "Filed under:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "LT Unleashed"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://vdvn.me/pga"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Offers shortcodes and widgets to display any public LibraryThing books "
+"collection in WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Claude Vedovini"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://vdvn.me/"
+msgstr ""
